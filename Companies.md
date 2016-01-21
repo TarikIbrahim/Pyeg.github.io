@@ -9,10 +9,9 @@
 - [EGYNCY](http://egyncy.com/)
 - [MADA](http://www.madamasr.com) - Plone CMS
 - [Ateb](http://www.atebreefer.com/) - (Odoo/OpenERP)
-- [Profolio Consulting]
+- [Profolio Consulting](http://profolioconsulting.com/)
 - [RMGS](http://www.rmgs.co/) - (Odoo/OpenERP)
-- [Aprcot](http://profolioconsulting.com/)
-- 
+- [Aprcot]
 
 ## Some of the projects, or for scripting
 - [Link Development](http://www.linkdev.com/solutions/open-source-solutions/)
