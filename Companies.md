@@ -7,6 +7,12 @@
 - [Bkam?](http://www.bkam.com) A large part of Bkam infrastructure is written in python
 - [FLying elephant lab - yaoota.com](http://www.yaoota.com)
 - [EGYNCY](http://egyncy.com/)
+- [MADA](http://www.madamasr.com) - Plone CMS
+- [Ateb](http://www.atebreefer.com/) - (Odoo/OpenERP)
+- [Profolio Consulting]
+- [RMGS](http://www.rmgs.co/) - (Odoo/OpenERP)
+- [Aprcot](http://profolioconsulting.com/)
+- 
 
 ## Some of the projects, or for scripting
 - [Link Development](http://www.linkdev.com/solutions/open-source-solutions/)
